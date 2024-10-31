@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|e:\\otherproject\\unityframework\\unityproject\\framework\\framework.base\\gameframeworklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\gameframeworklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.base\\referencepool\\referencepoolinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\referencepool\\referencepoolinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|e:\\otherproject\\unityframework\\unityproject\\framework\\framework.base\\gameframeworkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\gameframeworkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|e:\\otherproject\\unityframework\\unityproject\\framework\\framework.base\\referencepool\\referencepool.referencecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\referencepool\\referencepool.referencecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|e:\\otherproject\\unityframework\\unityproject\\framework\\framework.base\\referencepool\\referencepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\referencepool\\referencepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.base\\referencepool\\ireference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.base\\referencepool\\ireference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.net\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.net\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.net\\inet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.net\\inet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.net\\defaultnetpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.net\\defaultnetpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.event\\eventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.event\\eventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.assets\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.assets\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.audio\\audiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.audio\\audiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.audio\\iaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.audio\\iaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.audio\\iaudiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.audio\\iaudiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.audio\\audioobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.audio\\audioobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.audio\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.audio\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.module\\moduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.module\\moduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.module\\modulebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.module\\modulebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\frameworkentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:frameworkentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.tools\\extend\\recttransformex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.tools\\extend\\recttransformex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.tools\\playerprefs\\playerprefsfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.tools\\playerprefs\\playerprefsfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.tools\\playerprefs\\playerprefsbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.tools\\playerprefs\\playerprefsbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\framework.single\\monosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91097A-354F-42BB-8D9A-28349EAA7397}|Framework.csproj|solutionrelative:framework.single\\monosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameFrameworkLinkedList.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\GameFrameworkLinkedList.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\GameFrameworkLinkedList.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\GameFrameworkLinkedList.cs",
+              "RelativeToolTip": "Framework.Base\\GameFrameworkLinkedList.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAA4wI4BAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:12:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameFrameworkException.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\GameFrameworkException.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\GameFrameworkException.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\GameFrameworkException.cs",
+              "RelativeToolTip": "Framework.Base\\GameFrameworkException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:02:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReferencePool.ReferenceCollection.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePool.ReferenceCollection.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\ReferencePool\\ReferencePool.ReferenceCollection.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePool.ReferenceCollection.cs",
+              "RelativeToolTip": "Framework.Base\\ReferencePool\\ReferencePool.ReferenceCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:02:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Net.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\Net.cs",
+              "RelativeDocumentMoniker": "Framework.Net\\Net.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\Net.cs",
+              "RelativeToolTip": "Framework.Net\\Net.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:47:21.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INet.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\INet.cs",
+              "RelativeDocumentMoniker": "Framework.Net\\INet.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\INet.cs",
+              "RelativeToolTip": "Framework.Net\\INet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:47:20.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultNetPackage.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\DefaultNetPackage.cs",
+              "RelativeDocumentMoniker": "Framework.Net\\DefaultNetPackage.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Net\\DefaultNetPackage.cs",
+              "RelativeToolTip": "Framework.Net\\DefaultNetPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:47:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventArgs.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Event\\EventArgs.cs",
+              "RelativeDocumentMoniker": "Framework.Event\\EventArgs.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Event\\EventArgs.cs",
+              "RelativeToolTip": "Framework.Event\\EventArgs.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:27:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReferencePoolInfo.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePoolInfo.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\ReferencePool\\ReferencePoolInfo.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePoolInfo.cs",
+              "RelativeToolTip": "Framework.Base\\ReferencePool\\ReferencePoolInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:00:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferencePool.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePool.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\ReferencePool\\ReferencePool.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\ReferencePool.cs",
+              "RelativeToolTip": "Framework.Base\\ReferencePool\\ReferencePool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:00:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReference.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\IReference.cs",
+              "RelativeDocumentMoniker": "Framework.Base\\ReferencePool\\IReference.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Base\\ReferencePool\\IReference.cs",
+              "RelativeToolTip": "Framework.Base\\ReferencePool\\IReference.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:00:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAudioGroup.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\IAudioGroup.cs",
+              "RelativeDocumentMoniker": "Framework.Audio\\IAudioGroup.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\IAudioGroup.cs",
+              "RelativeToolTip": "Framework.Audio\\IAudioGroup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:22:48.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AudioObject.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\AudioObject.cs",
+              "RelativeDocumentMoniker": "Framework.Audio\\AudioObject.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\AudioObject.cs",
+              "RelativeToolTip": "Framework.Audio\\AudioObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:43:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioGroup.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\AudioGroup.cs",
+              "RelativeDocumentMoniker": "Framework.Audio\\AudioGroup.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\AudioGroup.cs",
+              "RelativeToolTip": "Framework.Audio\\AudioGroup.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwDcAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:39:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceManager.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Assets\\ResourceManager.cs",
+              "RelativeDocumentMoniker": "Framework.Assets\\ResourceManager.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Assets\\ResourceManager.cs",
+              "RelativeToolTip": "Framework.Assets\\ResourceManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:26:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAudioManager.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\IAudioManager.cs",
+              "RelativeDocumentMoniker": "Framework.Audio\\IAudioManager.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\IAudioManager.cs",
+              "RelativeToolTip": "Framework.Audio\\IAudioManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:25:10.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\Audio.cs",
+              "RelativeDocumentMoniker": "Framework.Audio\\Audio.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Audio\\Audio.cs",
+              "RelativeToolTip": "Framework.Audio\\Audio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:23:51.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Moduler.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Module\\Moduler.cs",
+              "RelativeDocumentMoniker": "Framework.Module\\Moduler.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Module\\Moduler.cs",
+              "RelativeToolTip": "Framework.Module\\Moduler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:37:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RectTransformEx.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\Extend\\RectTransformEx.cs",
+              "RelativeDocumentMoniker": "Framework.Tools\\Extend\\RectTransformEx.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\Extend\\RectTransformEx.cs",
+              "RelativeToolTip": "Framework.Tools\\Extend\\RectTransformEx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:06:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModuleBase.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Module\\ModuleBase.cs",
+              "RelativeDocumentMoniker": "Framework.Module\\ModuleBase.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Module\\ModuleBase.cs",
+              "RelativeToolTip": "Framework.Module\\ModuleBase.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:45:41.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrameworkEntry.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\FrameworkEntry.cs",
+              "RelativeDocumentMoniker": "FrameworkEntry.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\FrameworkEntry.cs",
+              "RelativeToolTip": "FrameworkEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:06:31.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerPrefsFloat.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\PlayerPrefs\\PlayerPrefsFloat.cs",
+              "RelativeDocumentMoniker": "Framework.Tools\\PlayerPrefs\\PlayerPrefsFloat.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\PlayerPrefs\\PlayerPrefsFloat.cs",
+              "RelativeToolTip": "Framework.Tools\\PlayerPrefs\\PlayerPrefsFloat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:06:19.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MonoSingleton.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Single\\MonoSingleton.cs",
+              "RelativeDocumentMoniker": "Framework.Single\\MonoSingleton.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Single\\MonoSingleton.cs",
+              "RelativeToolTip": "Framework.Single\\MonoSingleton.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAzwCoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:55:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerPrefsBool.cs",
+              "DocumentMoniker": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\PlayerPrefs\\PlayerPrefsBool.cs",
+              "RelativeDocumentMoniker": "Framework.Tools\\PlayerPrefs\\PlayerPrefsBool.cs",
+              "ToolTip": "E:\\OtherProject\\UnityFramework\\UnityProject\\Framework\\Framework.Tools\\PlayerPrefs\\PlayerPrefsBool.cs",
+              "RelativeToolTip": "Framework.Tools\\PlayerPrefs\\PlayerPrefsBool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:53:36.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

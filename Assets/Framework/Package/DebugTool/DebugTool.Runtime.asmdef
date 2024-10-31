@@ -1,0 +1,16 @@
+{
+    "name": "DebugTool.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:766ef81a117c1ac45b1f6046d2e7eba9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
